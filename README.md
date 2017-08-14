@@ -1,7 +1,10 @@
 # UmayDemo
 Developers:Muhammed Nurullah Torun,Mustafa Büyükçağlayan,Yunus Emre Belet
+
 Team : MIS GARAGE
+
 Category : Education
+
 Target Group : Children aged 6-12 years
 
 # About Game Name;
