@@ -16,6 +16,9 @@ Umay is the most important sacred asset in Turkish mythology, symbol of birth an
 
 # Game Development Environment
 Operating System : Windows 10 Pro
+
 Game Engine : Unity 3D
+
 Modelling Software : Blender
+
 Code Editor : Visual Studio Code
