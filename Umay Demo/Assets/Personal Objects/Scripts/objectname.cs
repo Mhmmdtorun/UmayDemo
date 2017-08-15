@@ -17,7 +17,7 @@ public class objectname : MonoBehaviour {
 	{
 			if (hit.transform.gameObject.tag=="vida") {
 				Debug.Log (hit.transform.gameObject.tag);
-
+				yazi.text=hit.transform.gameObject.tag;
 			}
 	}
 	}
