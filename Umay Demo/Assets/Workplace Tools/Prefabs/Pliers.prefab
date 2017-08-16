@@ -21,7 +21,7 @@ GameObject:
   - 4: {fileID: 4000011145380886}
   m_Layer: 0
   m_Name: Pliers
-  m_TagString: Untagged
+  m_TagString: Pense
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -81,9 +81,9 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1000010112225952}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.3607969, y: 0.45617807, z: -1.8869904}
+  m_LocalScale: {x: 0.14535218, y: 0.23795058, z: 0.14535215}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 4000012468367162}

@@ -4,13 +4,20 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - vida
+  - Vida
+  - "\xC7eki\xE7"
+  - Anahtar
+  - Tornavida
+  - Matkap
+  - "Ayarl\u0131 Anahtar"
+  - Pense
   - cekic
-  - anahtar
-  - tornavida
   - matkap
   - banahtar
-  - pense
+  - New Tag
+  - tornavida
+  - anahtar
+  - vida
   layers:
   - Default
   - TransparentFX

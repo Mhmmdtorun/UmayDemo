@@ -13,11 +13,15 @@ public class objectname : MonoBehaviour {
 	
 	
 	void Update () {
-		if (Physics.Raycast(Camera.main.transform.position,Camera.main.transform.forward,out hit,2))
+		if (Physics.Raycast(Camera.main.transform.position,Camera.main.transform.forward,out hit,3))
 	{
-			if (hit.transform.gameObject.tag=="vida") {
-				Debug.Log (hit.transform.gameObject.tag);
-				yazi.text=hit.transform.gameObject.tag;
+			if (hit.transform.gameObject.tag=="Untagged") {
+				yazi.text = "";
+
+			}else 
+			
+			{
+				yazi.text = hit.transform.gameObject.tag;
 			}
 	}
 	}
