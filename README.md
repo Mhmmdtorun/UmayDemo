@@ -1,5 +1,5 @@
 # UmayDemo
-Developers: Muhammed Nurullah Torun, Mustafa Büyükçağlayan, Yunus Emre Belet
+Developers: Muhammed Nurullah Torun
 
 Team : MIS GARAGE
 
